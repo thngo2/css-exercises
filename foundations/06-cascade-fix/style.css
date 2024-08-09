@@ -21,7 +21,7 @@ body {
   font-size: 22px;
 } */
 
-.confirm {
+#confirm-button {
   background: green;
   color: white;
   font-weight: bold;
@@ -49,9 +49,4 @@ div.text {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
-}
-
-#confirm-button {
-  background-color: green;
-  color: white;
 }
