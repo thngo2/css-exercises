@@ -1,19 +1,19 @@
-p.odd {
-    background-color: lightcoral;
+.odd {
+    background-color: #f08080;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-div#number-2 {
+#number-2 {
     color: blue;
     font-size: 36px;
 }
 
-p.number-3 {
+.number-3 {
     font-size: 24px;
 }
 
-div#number-4 {
-    background-color: lightgreen;
+#number-4 {
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
