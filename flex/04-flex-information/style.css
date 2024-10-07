@@ -20,9 +20,11 @@ img {
   justify-content: center;
   gap: 52px;
   text-align: center;
-  /* flex-wrap: wrap; */
 }
 
+.barberry, .chilli, .saffron, .pepper {
+  max-width: 200px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
